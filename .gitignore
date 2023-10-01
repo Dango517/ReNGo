@@ -68,5 +68,11 @@ Assets/StreamingAssets/crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-/SerializedUdonPrograms/*
-/UdonSharp/*
+/[Aa]ssets/SerializedUdonPrograms/*
+/[Aa]ssets/SerializedUdonPrograms.meta
+.idea/
+Packages/com.vrchat.clientsim/Editor/obj/
+Packages/com.vrchat.clientsim/Editor/obj.meta
+
+/[Aa]ssets/Dev/
+/[Aa]ssets/Dev.meta
